@@ -1,1 +1,4 @@
+# add streamlit to ignore
+.streamlit/
+
 
